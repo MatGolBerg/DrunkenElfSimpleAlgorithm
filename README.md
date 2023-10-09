@@ -1,4 +1,4 @@
-This is my solution to a problem encountered in the recruitment of a colleague.
+This is my solution to a problem encountered in the recruitment of a friend.
 
 Santa delivers presents to an infinite two-dimensional grid of houses.
 
