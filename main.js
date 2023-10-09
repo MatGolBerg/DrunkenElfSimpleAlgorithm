@@ -1,5 +1,5 @@
-function wIluDomachBylMikolaj() {
-	console.time('czas');
+function whereSantaHasBeen() {
+	console.time('time');
 
 	const inputFile = document.querySelector('.inputFile');
 
@@ -31,7 +31,7 @@ function wIluDomachBylMikolaj() {
 		};
 		fileReader.readAsText(inputFile.files[0], 'UTF-8');
 	});
-	console.timeEnd('czas');
+	console.timeEnd('time');
 }
 
-wIluDomachBylMikolaj();
+whereSantaHasBeen();
